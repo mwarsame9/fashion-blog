@@ -1,0 +1,25 @@
+{ "posts": [{
+    "title": "Title 1",
+    "author": "Author 1",
+    "city": "Portland",
+    "content": "content content content here",
+    "category": "Category 1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/African_Fashion_in_the_City_7.JPG"
+  }, {
+    "title": "Title 2",
+    "author": "Author 2",
+    "city": "Los Angeles",
+    "content": "content content content here",
+    "category": "Category 2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Pitti_Immagine_Uomo_77.jpg"
+
+
+  }, {
+    "title": "Title 3",
+    "author": "Author 3",
+    "city": "New York",
+    "content": "content content content here",
+    "category": "Category 3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Miami_Fashion_Week_2014-294.jpg"
+  }]
+}

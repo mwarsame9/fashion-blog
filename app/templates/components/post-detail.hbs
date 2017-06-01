@@ -1,0 +1,12 @@
+<br>
+<h4>By: {{post.author}}</h4>
+
+<h4>Location: {{post.city}}</h4> <br>
+<h4>Category: {{post.category}}</h4> <br>
+<p>
+  {{post.content}}
+</p>
+<br>
+<p><img src={{post.image}} alt={{post.category}}></p>
+
+<button  class="btn btn-danger"{{action 'delete' rental}}>Delete Post</button>
