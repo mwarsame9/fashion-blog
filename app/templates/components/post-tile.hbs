@@ -1,8 +1,14 @@
 <li>
-  {{#link-to 'post' post.id}}{{post.title}}{{/link-to}}
-    {{#if isImageShowing}}
-    <p><img src={{post.image}} alt={{post.title}} {{action 'imageHide'}}></p>
-  {{else}}
-    <button {{action 'imageShow'}}>Show image</button>
-  {{/if}}
+  <h2><em>{{post.title}}</em></h2>
+
+  <br>
+  {{#link-to 'post' post.id}}<p><img src={{post.image}} alt={{post.category}}></p>{{/link-to}}<br>
+  <p>
+    <em>{{post.content}}</em>
+  </p>
+  <br>
+  <h5>By: {{post.author}}</h5>
+  <h5>{{post.city}}</h5> <br>
+  <h5>Category: {{post.category}}</h5> <br>
+  <br>
 </li>
