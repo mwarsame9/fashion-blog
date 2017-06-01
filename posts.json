@@ -21,5 +21,12 @@
     "content": "content content content here",
     "category": "Category 3",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Miami_Fashion_Week_2014-294.jpg"
+  }],
+  "comments": [{
+    "content": "Nice color palate!",
+    "author": "Andrea"
+  }, {
+    "content": "WANT.",
+    "author": "Alex"
   }]
 }
