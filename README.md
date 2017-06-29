@@ -1,7 +1,6 @@
 # Fashion-blog
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+An application where users can create, read, update, and destroy a blog post. Users can also leave a comment on each blog post. 
 
 ## Prerequisites
 
@@ -39,9 +38,9 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember build` (development)
 * `ember build --environment production` (production)
 
-### Deploying
+### Author
 
-Specify what it takes to deploy your app.
+Mohamed Warsame
 
 ## Further Reading / Useful Links
 
